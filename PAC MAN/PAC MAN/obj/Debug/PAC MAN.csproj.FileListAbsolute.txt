@@ -1,0 +1,18 @@
+D:\factully level 3\sectionC#\PAC MAN\PAC MAN\bin\Debug\PAC MAN.exe.config
+D:\factully level 3\sectionC#\PAC MAN\PAC MAN\bin\Debug\PAC MAN.exe
+D:\factully level 3\sectionC#\PAC MAN\PAC MAN\bin\Debug\PAC MAN.pdb
+D:\factully level 3\sectionC#\PAC MAN\PAC MAN\obj\Debug\PAC MAN.csprojResolveAssemblyReference.cache
+D:\factully level 3\sectionC#\PAC MAN\PAC MAN\obj\Debug\PAC_MAN.Form1.resources
+D:\factully level 3\sectionC#\PAC MAN\PAC MAN\obj\Debug\PAC_MAN.Properties.Resources.resources
+D:\factully level 3\sectionC#\PAC MAN\PAC MAN\obj\Debug\PAC MAN.csproj.GenerateResource.Cache
+D:\factully level 3\sectionC#\PAC MAN\PAC MAN\obj\Debug\PAC MAN.exe
+D:\factully level 3\sectionC#\PAC MAN\PAC MAN\obj\Debug\PAC MAN.pdb
+I:\project\PAC MAN\PAC MAN\bin\Debug\PAC MAN.exe.config
+I:\project\PAC MAN\PAC MAN\obj\Debug\PAC MAN.exe
+I:\project\PAC MAN\PAC MAN\obj\Debug\PAC MAN.pdb
+I:\project\PAC MAN\PAC MAN\bin\Debug\PAC MAN.exe
+I:\project\PAC MAN\PAC MAN\bin\Debug\PAC MAN.pdb
+I:\project\PAC MAN\PAC MAN\obj\Debug\PAC MAN.csprojResolveAssemblyReference.cache
+I:\project\PAC MAN\PAC MAN\obj\Debug\PAC_MAN.Form1.resources
+I:\project\PAC MAN\PAC MAN\obj\Debug\PAC_MAN.Properties.Resources.resources
+I:\project\PAC MAN\PAC MAN\obj\Debug\PAC MAN.csproj.GenerateResource.Cache
